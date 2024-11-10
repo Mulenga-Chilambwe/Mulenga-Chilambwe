@@ -43,7 +43,7 @@ Currently expanding my knowledge in **Advanced Machine Learning Techniques**, **
 
 ## 📫 Connect With Me
 
-- **LinkedIn**: [Your LinkedIn URL]
+- **LinkedIn**: 
 - **Email**: chilambwem551@gmail.com
 
 Thanks for stopping by, and happy coding! 🚀
