@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a tech enthusiast with a deep passion for **Ma
 - **Quantitative Analysis**: 📓 Jupyter Notebooks | 📉 Numpy | 📊 Matplotlib
 - **Web Development**: 🖥️ HTML | 🎨 CSS | 🖌️ Bootstrap
 - **Blockchain**: 🔐 Solidity | 📜 Smart Contract Development
+- **Vision-conrol** Git Proficient 
 
 ---
 
